@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Resource/head.jpg</file>
+        <file>Resource/touch_fish.png</file>
+        <file>Resource/digital-7 (mono).ttf</file>
+        <file>Resource/digital-7 (mono italic).ttf</file>
+    </qresource>
+</RCC>
